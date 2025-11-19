@@ -48,24 +48,7 @@ This is **real working code**, not pseudocode.
 
 ---
 
-### 2. `tex/` — **The Full LaTeX Book**
-
-This folder contains the full manuscript of the book:
-
-**_“Lexicographic Constraint Optimization: The Hidden Order of Everything”_**
-
-Included:
-
-- `main.tex` — Entire book  
-- `chapters/` — Each chapter split into structured TeX files  
-- `images/` — Figures referenced in the manuscript  
-- All mathematics, proofs, algorithms, and cross-domain applications
-
-The LaTeX builds into a full academic monograph.
-
----
-
-### 3. `releases/` — **Compiled PDF**
+### 2. `releases/` — **Compiled PDF**
 
 Contains:
 
