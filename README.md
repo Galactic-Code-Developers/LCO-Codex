@@ -1,2 +1,1 @@
-# LCO-Codex
-LCO-Codex/
+Placeholder README
